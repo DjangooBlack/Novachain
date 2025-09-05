@@ -1,0 +1,130 @@
+version: "3.8"
+
+services:
+  api:
+    build:
+      context: ./api_service/docker
+      dockerfile: api.Dockerfile
+
+  blockchain:
+    build:
+      context: ./blockchain_service/docker
+      dockerfile: blockchain.Dockerfile
+
+  cli:
+    build:
+      context: ./cli_service/docker
+      dockerfile: cli.Dockerfile
+
+  global_config:
+    build:
+      context: ./global_config_service/docker
+      dockerfile: global_config.Dockerfile
+
+  consensus:
+    build:
+      context: ./consensus_service/docker
+      dockerfile: consensus.Dockerfile
+
+  crosschain:
+    build:
+      context: ./crosschain_service/docker
+      dockerfile: crosschain.Dockerfile
+
+  defi:
+    build:
+      context: ./defi_service/docker
+      dockerfile: defi.Dockerfile
+
+  governance:
+    build:
+      context: ./governance_service/docker
+      dockerfile: governance.Dockerfile
+
+  infra:
+    build:
+      context: ./infra_service/docker
+      dockerfile: infra.Dockerfile
+
+  layer2:
+    build:
+      context: ./layer2_service/docker
+      dockerfile: layer2.Dockerfile
+
+  orchestration:
+    build:
+      context: ./orchestration_service/docker
+      dockerfile: orchestration.Dockerfile
+
+  p2p:
+    build:
+      context: ./p2p_service/docker
+      dockerfile: p2p.Dockerfile
+
+  raas:
+    build:
+      context: ./raas_service/docker
+      dockerfile: raas.Dockerfile
+
+  relay:
+    build:
+      context: ./relay_service/docker
+      dockerfile: relay.Dockerfile
+
+  rollups:
+    build:
+      context: ./rollups_service/docker
+      dockerfile: rollups.Dockerfile
+
+  smart_contract:
+    build:
+      context: ./smart_contract_service/docker
+      dockerfile: smart_contract.Dockerfile
+
+  storage:
+    build:
+      context: ./storage_service/docker
+      dockerfile: storage.Dockerfile
+
+  tokens:
+    build:
+      context: ./tokens_service/docker
+      dockerfile: tokens.Dockerfile
+
+  tui:
+    build:
+      context: ./tui_service/docker
+      dockerfile: tui.Dockerfile
+
+  vm:
+    build:
+      context: ./vm_service/docker
+      dockerfile: vm.Dockerfile
+
+  wallet:
+    build:
+      context: ./wallet_service/docker
+      dockerfile: wallet.Dockerfile
+
+  zkp:
+    build:
+      context: ./zkp_service/docker
+      dockerfile: zkp.Dockerfile
+
+  db:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: mydb
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+volumes:
+  db_data:
+
+networks:
+  default:
+    driver: bridge

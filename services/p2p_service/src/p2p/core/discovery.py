@@ -1,0 +1,1 @@
+# Peer discovery (bootstrap nodes, gossip, kad)

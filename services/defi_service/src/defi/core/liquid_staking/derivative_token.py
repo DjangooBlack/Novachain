@@ -1,0 +1,1 @@
+# Stake karşılığı verilen türev token (stETH benzeri)

@@ -1,0 +1,1 @@
+# Fungible token (ERC-20 benzeri)

@@ -1,0 +1,1 @@
+# VM hata yönetimi (out of gas, invalid opcode vs.)

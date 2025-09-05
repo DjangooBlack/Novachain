@@ -1,0 +1,1 @@
+# Multi-VM orchestrator, contract hangi VM’de çalışacak karar verir

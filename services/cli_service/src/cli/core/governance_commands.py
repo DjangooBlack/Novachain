@@ -1,0 +1,1 @@
+# Governance CLI (proposal, vote, sonuçları görüntüle)

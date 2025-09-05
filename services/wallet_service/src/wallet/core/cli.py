@@ -1,0 +1,1 @@
+# CLI arayüzü (wallet oluştur, import/export, balance, tx imzala)

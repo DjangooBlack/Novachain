@@ -1,0 +1,1 @@
+# Ortak yardımcı fonksiyonlar (encoding, hashing, compression)

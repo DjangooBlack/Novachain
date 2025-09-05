@@ -1,0 +1,1 @@
+# Diğer protokollerle entegrasyon

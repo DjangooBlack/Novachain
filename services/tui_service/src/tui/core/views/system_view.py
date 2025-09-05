@@ -1,0 +1,1 @@
+# CPU, bellek, storage istatistikleri

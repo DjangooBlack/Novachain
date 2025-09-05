@@ -1,0 +1,1 @@
+# Özel/public key üretme, BIP32/BIP39/BIP44 desteği

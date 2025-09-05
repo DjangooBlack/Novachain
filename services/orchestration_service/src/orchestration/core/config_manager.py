@@ -1,0 +1,1 @@
+# Merkezi config yönetimi (her modül için merge/override)

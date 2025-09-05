@@ -1,0 +1,1 @@
+# Eski state/transaction pruning (disk optimizasyonu)

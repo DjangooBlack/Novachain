@@ -1,0 +1,1 @@
+# Yatay / dikey ölçekleme (auto-scale node/worker)

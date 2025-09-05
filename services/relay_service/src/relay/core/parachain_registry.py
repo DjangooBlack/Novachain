@@ -1,0 +1,1 @@
+# Parachain/sidechain kayıt & yönetim

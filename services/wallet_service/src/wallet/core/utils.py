@@ -1,0 +1,1 @@
+# Yardımcı fonksiyonlar (hash, base58/Bech32 encoding, checksum)

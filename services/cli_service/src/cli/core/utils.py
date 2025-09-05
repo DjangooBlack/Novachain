@@ -1,0 +1,1 @@
+# Ortak yardımcı fonksiyonlar (pretty print, logger)

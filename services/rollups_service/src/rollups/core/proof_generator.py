@@ -1,0 +1,1 @@
+# ZK proof üretici (SNARK/STARK wrapper)

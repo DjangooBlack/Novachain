@@ -1,0 +1,1 @@
+# Çoklu rollup yönetimi (hangi chain, hangi rollup)

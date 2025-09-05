@@ -1,0 +1,1 @@
+# Optimistic / zkRollup mantığı (batch tx, proof submit)

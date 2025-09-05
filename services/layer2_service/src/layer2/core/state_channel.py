@@ -1,0 +1,1 @@
+# State channel açma/kapama, off-chain tx mantığı

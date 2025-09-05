@@ -1,0 +1,1 @@
+# Son bloklar, chain durumu

@@ -1,0 +1,1 @@
+# Block & transaction verilerinin saklanması
