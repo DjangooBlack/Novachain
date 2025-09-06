@@ -1,1 +1,1 @@
- # CLI: rollup deploy, sequencer başlat, prover çalıştır
+# CLI: rollup deploy, sequencer başlat, prover çalıştır

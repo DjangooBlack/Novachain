@@ -1,1 +1,1 @@
- # Yardımcı fonksiyonlar (thread, async, signal handler)
+# Yardımcı fonksiyonlar (thread, async, signal handler)
