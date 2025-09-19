@@ -1,1 +1,0 @@
-# Rollup’lar için abstract base class

@@ -1,0 +1,1 @@
+# Kritik hata/uyarı sistemi

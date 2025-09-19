@@ -1,0 +1,1 @@
+# Likidite havuzu oluşturma / yönetme

@@ -1,1 +1,0 @@
-# Pending işlemler, mempool durumu

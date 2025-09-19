@@ -1,1 +1,0 @@
-# Relay chain validator set yönetimi (DPoS/PoS tabanlı)

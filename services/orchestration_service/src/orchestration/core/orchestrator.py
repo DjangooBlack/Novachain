@@ -1,1 +1,0 @@
-# Orkestrasyonun ana kontrol noktası

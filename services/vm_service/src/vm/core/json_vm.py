@@ -1,1 +1,0 @@
-# JSON tabanlı lightweight VM (framework içi native contractlar için)

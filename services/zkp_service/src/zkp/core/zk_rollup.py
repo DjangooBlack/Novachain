@@ -1,1 +1,0 @@
-# zk-Rollup state transition

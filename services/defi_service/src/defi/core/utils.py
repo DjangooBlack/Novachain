@@ -1,1 +1,0 @@
-# Ortak fonksiyonlar (faiz, epoch, zamanlayıcı)

@@ -1,1 +1,1 @@
-# Rollup oluşturma, yönetme, başlatma/durdurma
+# Yeni rollup chain oluşturma, kaldırma

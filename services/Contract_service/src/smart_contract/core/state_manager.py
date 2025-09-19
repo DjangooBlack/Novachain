@@ -1,0 +1,1 @@
+# Kontrat storage/state management

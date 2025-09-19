@@ -1,1 +1,1 @@
-# Validator seti, stake ve slashing işlemleri
+# Validator listesi, stake ağırlıkları

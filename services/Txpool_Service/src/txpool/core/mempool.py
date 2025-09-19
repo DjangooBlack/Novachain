@@ -1,0 +1,1 @@
+# Memory içinde transaction store

@@ -1,0 +1,1 @@
+# Kazançları otomatik yeniden yatırır

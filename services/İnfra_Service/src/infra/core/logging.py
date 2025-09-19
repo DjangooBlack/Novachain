@@ -1,0 +1,1 @@
+# Log toplama, centralize etme

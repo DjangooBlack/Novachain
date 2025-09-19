@@ -1,1 +1,0 @@
-# Merkezi log forwarding (ELK/EFK)

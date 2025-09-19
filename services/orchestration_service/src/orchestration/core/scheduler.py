@@ -1,1 +1,1 @@
-# Görev zamanlayıcı (cron benzeri, blok slotları, snapshot)
+# Servislerin başlatma/sıralama yönetimi

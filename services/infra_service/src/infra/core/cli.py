@@ -1,1 +1,0 @@
-# CLI komutları (deploy, scale, destroy)

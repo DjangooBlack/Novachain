@@ -1,1 +1,0 @@
-# CPU, RAM, disk, storage allocation

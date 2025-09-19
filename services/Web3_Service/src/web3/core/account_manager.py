@@ -1,0 +1,1 @@
+# Hesap yönetimi, adres oluşturma

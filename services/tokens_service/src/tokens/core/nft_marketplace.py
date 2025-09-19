@@ -1,1 +1,0 @@
-# Basit NFT marketplace altyapısı

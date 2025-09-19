@@ -1,1 +1,1 @@
-# IPFS entegrasyonu (dosya upload, hash management)
+# IPFS entegrasyonu (dosya/object storage)

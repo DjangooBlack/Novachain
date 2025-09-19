@@ -1,1 +1,1 @@
-# Relay <-> diğer relay veya L1 köprü adaptörü
+# Blockchain, Layer2, Crosschain adapterleri

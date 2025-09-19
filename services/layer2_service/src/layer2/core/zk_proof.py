@@ -1,1 +1,0 @@
-# zk-SNARK / zk-STARK proof üretim & doğrulama entegrasyonu

@@ -1,1 +1,0 @@
-# Şifreli JSON key storage (örn. Ethereum keystore formatı)

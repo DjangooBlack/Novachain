@@ -1,0 +1,1 @@
+# Borç için teminat sistemi

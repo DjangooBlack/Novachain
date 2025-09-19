@@ -1,1 +1,0 @@
-# Türev token yakma -> geri alma

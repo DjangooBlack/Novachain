@@ -1,0 +1,1 @@
+# Health check, metric toplama

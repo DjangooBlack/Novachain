@@ -1,0 +1,1 @@
+# Node durumu, sync info

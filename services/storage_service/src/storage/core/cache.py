@@ -1,1 +1,0 @@
-# Redis/Memcached cache entegrasyonu

@@ -1,0 +1,1 @@
+# Modüller arası bağımlılık çözümü

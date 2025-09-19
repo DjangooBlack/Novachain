@@ -1,0 +1,1 @@
+# Oracle registry, kaynak yönetimi

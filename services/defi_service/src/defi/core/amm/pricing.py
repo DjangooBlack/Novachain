@@ -1,1 +1,0 @@
-# Fiyatlandırma algoritmaları (x*y=k, curve, vb.)

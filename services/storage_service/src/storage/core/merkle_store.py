@@ -1,1 +1,0 @@
-# Merkle tree bazlı state storage (zk rollup uyumlu)

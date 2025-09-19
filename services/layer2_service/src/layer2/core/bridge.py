@@ -1,1 +1,0 @@
-# L1 <-> L2 köprü (deposit, withdraw, fraud proof)

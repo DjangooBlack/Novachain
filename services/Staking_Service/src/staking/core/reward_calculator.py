@@ -1,0 +1,1 @@
+# Ödül ve APR hesaplama

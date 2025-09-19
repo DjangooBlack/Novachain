@@ -1,1 +1,1 @@
-# DPoS çekirdek algoritması (delegate, elect, schedule_producer)
+# Delegated Proof of Stake algoritması

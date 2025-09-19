@@ -1,1 +1,0 @@
-# Loglama, event forwarding, structured logs

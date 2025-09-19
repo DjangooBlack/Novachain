@@ -1,1 +1,0 @@
-# Tekil peer objesi (bağlantı, kimlik, durum)

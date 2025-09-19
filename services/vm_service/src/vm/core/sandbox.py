@@ -1,0 +1,1 @@
+# Güvenli execution ortamı

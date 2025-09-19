@@ -1,1 +1,1 @@
-# Ana TUI dashboard (rich / textual ile)
+# Ana dashboard ekranı

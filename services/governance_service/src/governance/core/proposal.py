@@ -1,1 +1,1 @@
-# Proposal (öneri) yapısı, tipleri (upgrade, parametre değişimi, treasury)
+# Proposal oluşturma, onaylama

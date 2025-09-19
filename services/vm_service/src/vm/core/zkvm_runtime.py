@@ -1,0 +1,1 @@
+# ZK-VM entegrasyonu (opsiyonel)

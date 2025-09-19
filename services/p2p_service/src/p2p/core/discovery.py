@@ -1,1 +1,1 @@
-# Peer discovery (bootstrap nodes, gossip, kad)
+# Yeni node keşfi (bootstrap, gossip)

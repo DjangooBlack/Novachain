@@ -1,1 +1,0 @@
-# Liquid staking yönetimi

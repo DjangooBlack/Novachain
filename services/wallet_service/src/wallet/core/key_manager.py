@@ -1,1 +1,1 @@
-# Özel/public key üretme, BIP32/BIP39/BIP44 desteği
+# Private/Public key management (ECDSA, BIP32, BIP39)

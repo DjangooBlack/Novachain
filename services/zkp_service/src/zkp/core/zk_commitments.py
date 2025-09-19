@@ -1,1 +1,0 @@
-# Pedersen commitments, merkle proofs

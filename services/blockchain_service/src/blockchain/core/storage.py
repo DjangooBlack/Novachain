@@ -1,1 +1,1 @@
-# Zincir veritabanı (LevelDB / RocksDB / SQLite backend)
+# Persistent storage (PostgreSQL / LevelDB / RocksDB)

@@ -1,0 +1,1 @@
+# Zincirler arası mesaj yönlendirme

@@ -1,1 +1,1 @@
-# Transaction imzalama / doğrulama
+# Transaction signing

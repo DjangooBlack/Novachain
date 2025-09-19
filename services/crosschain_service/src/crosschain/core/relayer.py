@@ -1,1 +1,1 @@
-# Zincirler arası relayer node mantığı
+# Cross-chain mesajları taşıyan relayer logic

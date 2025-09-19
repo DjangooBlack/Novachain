@@ -1,1 +1,1 @@
-# Block yapısı (header, tx listesi, imza, hash)
+# Block yapısı (header + transactions)

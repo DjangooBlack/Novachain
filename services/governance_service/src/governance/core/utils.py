@@ -1,1 +1,0 @@
-# Yardımcı fonksiyonlar (id üretimi, zamanlayıcı, snapshot)

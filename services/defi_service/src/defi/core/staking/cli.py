@@ -1,1 +1,0 @@
-# CLI arayüzü (stake et, withdraw et, ödül sorgula)

@@ -1,1 +1,0 @@
-# Governance hazinesi (fon yönetimi, community spend proposals)

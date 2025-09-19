@@ -1,1 +1,0 @@
-# Smart contract CLI (deploy, call, compile)

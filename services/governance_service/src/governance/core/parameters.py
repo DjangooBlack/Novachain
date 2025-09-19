@@ -1,0 +1,1 @@
+# Sistem parametre değişiklikleri

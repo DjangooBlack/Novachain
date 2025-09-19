@@ -1,0 +1,1 @@
+# Riskli borç pozisyonlarının tasfiyesi

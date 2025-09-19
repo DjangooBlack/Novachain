@@ -1,1 +1,0 @@
-# Tüm VM’ler için abstract base class

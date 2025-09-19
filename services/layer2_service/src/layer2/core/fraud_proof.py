@@ -1,1 +1,0 @@
-# Optimistic rollup için fraud proof mekanizması

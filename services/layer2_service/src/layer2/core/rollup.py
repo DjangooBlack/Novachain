@@ -1,1 +1,1 @@
-# Optimistic / zkRollup mantığı (batch tx, proof submit)
+# Rollup mantığı (batching, compressing)

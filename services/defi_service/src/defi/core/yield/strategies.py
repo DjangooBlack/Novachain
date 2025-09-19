@@ -1,1 +1,0 @@
-# Stratejiler (compounding, auto-stake, vb.)

@@ -1,1 +1,1 @@
-# Blockchain yönetimi (zincir ekleme, fork seçimi, sync)
+# Chain yönetimi (longest chain, fork handling)

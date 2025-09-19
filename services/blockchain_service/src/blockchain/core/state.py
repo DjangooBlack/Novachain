@@ -1,1 +1,1 @@
-# Global state (account balances, contract storage, trie/merkle)
+# State DB (account balances, storage)

@@ -1,1 +1,0 @@
-# Docker / Podman container yönetimi

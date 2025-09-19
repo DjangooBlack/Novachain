@@ -3,14 +3,12 @@ name = "p2p"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-license = "MIT"
 authors = [
     { name = "djangooblack", email = "qhalil6060@gmail.com" }
 ]
 requires-python = ">=3.13.7"
 dependencies = [
-    "grpcio>=1.74.0",
-    "kafka-python>=2.2.15",
+    "grpcio>=1.75.0",
 ]
 
 [project.scripts]

@@ -1,1 +1,1 @@
-# Çoklu rollup yönetimi (hangi chain, hangi rollup)
+# Rollup instance lifecycle

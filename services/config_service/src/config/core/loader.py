@@ -1,1 +1,0 @@
-# config.json yükler + ENV ile merge eder

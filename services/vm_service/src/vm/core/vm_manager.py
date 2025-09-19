@@ -1,1 +1,1 @@
-# Multi-VM orchestrator, contract hangi VM’de çalışacak karar verir
+# VM lifecycle manager (create, destroy, run)

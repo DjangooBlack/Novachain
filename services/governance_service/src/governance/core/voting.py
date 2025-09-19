@@ -1,1 +1,1 @@
-# Oylama mantığı (DPoS validator vote, token-weighted vote, quorum)
+# Oy verme & tally işlemleri

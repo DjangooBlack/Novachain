@@ -1,1 +1,0 @@
-# Yardımcı fonksiyonlar (imza doğrulama, hash, timer)

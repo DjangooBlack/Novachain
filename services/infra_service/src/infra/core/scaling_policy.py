@@ -1,1 +1,0 @@
-# Infra auto-scaling politikaları

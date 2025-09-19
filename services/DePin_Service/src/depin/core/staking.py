@@ -1,0 +1,1 @@
+# Kaynak sağlayıcıların stake mekanizması

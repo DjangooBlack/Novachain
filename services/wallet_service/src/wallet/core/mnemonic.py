@@ -1,1 +1,1 @@
-# Mnemonic phrase oluşturma / kurtarma (BIP39)
+# Mnemonic (BIP39) generate/recover

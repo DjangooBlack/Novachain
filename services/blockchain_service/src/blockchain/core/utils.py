@@ -1,1 +1,0 @@
-# Yardımcı fonksiyonlar (hash, timestamp, difficulty calc)

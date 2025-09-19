@@ -1,1 +1,0 @@
-# Genesis block tanımı ve yükleme

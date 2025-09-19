@@ -1,1 +1,0 @@
-# Ağ kurulum ve overlay (VPN, VPC, subnet, peering)

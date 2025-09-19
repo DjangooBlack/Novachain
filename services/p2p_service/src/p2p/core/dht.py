@@ -1,1 +1,1 @@
-# Distributed Hash Table (peer discovery, lookup)
+# Distributed Hash Table mantığı

@@ -1,1 +1,1 @@
-# State root, merkle tree, fraud/validity proof sistemi
+# L2 → L1 state commitment

@@ -1,1 +1,0 @@
-# Ödül dağıtım algoritmaları (APY, epoch bazlı ödüller)

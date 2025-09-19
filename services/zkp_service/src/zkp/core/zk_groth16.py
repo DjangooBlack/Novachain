@@ -1,1 +1,0 @@
-# Groth16 protokolü

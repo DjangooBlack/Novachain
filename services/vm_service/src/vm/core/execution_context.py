@@ -1,1 +1,1 @@
-# Contract execution context (state, stack, memory, logs)
+# Transaction → VM execution mapping
